@@ -1,5 +1,0 @@
-selamat datang dan login dengan benar
-- nama
-  * Sabili Pratama 
-- Password
-- Email
