@@ -1,0 +1,4 @@
+selamat datang dan login dengan benar
+- nama 
+- Password
+- Email
